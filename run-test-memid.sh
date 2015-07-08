@@ -5,13 +5,13 @@ EXPS="./exps.txt"
 
 VM="192.168.0.180"
 
-RBNAME="/home/arq/edosyst-v2/bin"
+RBNAME="/home/arq/eos/bin"
 RUSERNAME="arq"
 
 LYONUSER="memid"
 LYONHOST="lyon-01"
 
-SSHPASS="memId123"
+SSHPASS=""
 
 CMD1="cd $RBNAME &&"
 CMD3="exit"

@@ -8,10 +8,10 @@ EXPS="./exps.txt"
 VM="192.168.56.101"
 STARTVM="VBoxHeadless --startvm ic "
 
-RBNAME="/root/edosyst/bin"
+RBNAME="/root/eos/bin"
 RUSERNAME="root"
 
-SSHPASS="d8fef51d"
+SSHPASS=""
 
 CMD1="cd $RBNAME &&"
 CMD3="shutdown -h now"
